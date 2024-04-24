@@ -1,0 +1,12 @@
+body{ background-image: url(beni.jpg);
+background-position: center;
+background-size: cover;
+padding: 50px;
+    margin: 20;
+    color: rgb(245, 243, 243);
+    border-color: white;
+    text-align:left;
+font-family: "comic sans ms";
+font-size: 30px;
+width: 400px;}
+
